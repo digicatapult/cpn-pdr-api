@@ -1,6 +1,10 @@
 
 # Personal data receipt API
 
+## Deprecation Notice
+This application was deprecated on March 14th 2024, there will be no further dependency or security updates.
+---
+
 This is a micro-service responsible of sending personal data receipts to data-subjects.
 
 ## Request
